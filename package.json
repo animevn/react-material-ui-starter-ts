@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
-    "@types/material-ui": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest"
@@ -17,6 +16,7 @@
   },
   "devDependencies": {
     "typescript": "latest",
+    "@types/material-ui": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest"
   },
